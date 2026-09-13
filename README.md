@@ -1,4 +1,4 @@
-# Reactor — AI Agent Execution Service
+# AgentRunner — AI Agent Execution Service
 
 **A Python-based AI agent using LangChain and Ollama for local LLM-powered reasoning and tool execution.**
 
@@ -32,8 +32,8 @@ The goal of this project is to support **clear agent execution logic**, extensib
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/Ahmed-Abdelhafez98/Reactor.git
-cd Reactor
+git clone https://github.com/Ahmed-Abdelhafez98/AgentRunner.git
+cd AgentRunner
 ````
 
 ### 2) Create a virtual environment and install dependencies
